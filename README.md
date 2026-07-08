@@ -1,8 +1,8 @@
 # FifthHouseBets — Public Ledger
 
 Every pick we actually posted on X ([@FifthHouseBets](https://x.com/FifthHouseBets))
-— the daily **Cheat Sheet** (moneylines) and **Dinger Dandies** (home run
-props) — with its settled result.  `ledger.csv` is regenerated and
+-- the daily **Cheat Sheet** (moneylines) and **Dinger Dandies** (home run
+props) -- with its settled result.  `ledger.csv` is regenerated and
 committed daily; nothing is edited or removed after the fact, so the git
 commit history itself is the timestamp proof.
 
@@ -12,7 +12,7 @@ days are not backfilled or reconstructed.
 
 _No games have settled yet — check back after tonight's slate finishes and tomorrow's grading runs._
 
-## Season so far (as of 2026-07-08 14:45 UTC)
+## Season so far (as of 2026-07-08 14:46 UTC)
 
 - **Moneylines (Cheat Sheet):** 0-0 · +0.00u
 - **HR props (Dinger Dandies):** 0-0 · +0.00u — its own ledger,
