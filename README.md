@@ -10,11 +10,9 @@ Tracking begins **2026-07-08**, the day this exact posting format
 (Cheat Sheet + Dinger Dandies + morning Scorecard) launched. Earlier
 days are not backfilled or reconstructed.
 
-_No games have settled yet — check back after tonight's slate finishes and tomorrow's grading runs._
+## Season so far (as of 2026-07-09 14:20 UTC)
 
-## Season so far (as of 2026-07-08 14:46 UTC)
-
-- **Moneylines (Cheat Sheet):** 0-0 · +0.00u
+- **Moneylines (Cheat Sheet):** 5-2 · +2.67u
 - **HR props (Dinger Dandies):** 0-0 · +0.00u — its own ledger,
   never blended with the moneyline record
 

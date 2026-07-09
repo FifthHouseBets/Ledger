@@ -1,1 +1,8 @@
 date,market,selection,entry_odds,result,units,clv_pp,clv_fair_pp
+2026-07-08,ML,Arizona Diamondbacks,135.0,LOSS,-1.0,1.31,0.44
+2026-07-08,ML,Atlanta Braves,110.0,WIN,1.1,0.23,-0.7
+2026-07-08,ML,Boston Red Sox,109.0,WIN,1.09,4.31,3.33
+2026-07-08,ML,Cleveland Guardians,120.0,LOSS,-1.0,1.72,0.73
+2026-07-08,ML,New York Mets,-149.0,WIN,0.67,5.8,4.43
+2026-07-08,ML,Tampa Bay Rays,-120.0,WIN,0.83,-1.72,-2.67
+2026-07-08,ML,Toronto Blue Jays,-102.0,WIN,0.98,5.65,4.54
