@@ -6,3 +6,9 @@ date,market,selection,entry_odds,result,units,clv_pp,clv_fair_pp
 2026-07-08,ML,New York Mets,-149.0,WIN,0.67,5.8,4.43
 2026-07-08,ML,Tampa Bay Rays,-120.0,WIN,0.83,-1.72,-2.67
 2026-07-08,ML,Toronto Blue Jays,-102.0,WIN,0.98,5.65,4.54
+2026-07-09,ML,Athletics,124.0,LOSS,-1.0,3.2,2.28
+2026-07-09,ML,Cincinnati Reds,156.0,LOSS,-1.0,0.31,-0.49
+2026-07-09,ML,Kansas City Royals,140.0,LOSS,-1.0,3.38,2.44
+2026-07-09,ML,Los Angeles Angels,133.0,LOSS,-1.0,2.33,1.46
+2026-07-09,ML,Miami Marlins,131.0,WIN,1.31,3.66,2.78
+2026-07-09,ML,Pittsburgh Pirates,108.0,LOSS,-1.0,2.9,1.92
