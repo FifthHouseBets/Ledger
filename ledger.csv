@@ -12,3 +12,14 @@ date,market,selection,entry_odds,result,units,clv_pp,clv_fair_pp
 2026-07-09,ML,Los Angeles Angels,133.0,LOSS,-1.0,2.33,1.46
 2026-07-09,ML,Miami Marlins,131.0,WIN,1.31,3.66,2.78
 2026-07-09,ML,Pittsburgh Pirates,108.0,LOSS,-1.0,2.9,1.92
+2026-07-10,HR,Hunter Goodman,330.0,LOSS,-1.0,,
+2026-07-10,HR,Juan Soto,335.0,LOSS,-1.0,,
+2026-07-10,HR,Nick Kurtz,325.0,VOID,0,,
+2026-07-10,ML,Arizona Diamondbacks,244.0,WIN,2.44,6.64,5.93
+2026-07-10,ML,Baltimore Orioles,-146.0,WIN,0.68,1.28,0.12
+2026-07-10,ML,Milwaukee Brewers,110.0,VOID,0,,
+2026-07-10,ML,Minnesota Twins,-126.0,LOSS,-1.0,4.25,3.06
+2026-07-10,ML,Philadelphia Phillies,111.0,LOSS,-1.0,1.39,0.41
+2026-07-10,ML,St. Louis Cardinals,150.0,WIN,1.5,1.67,0.86
+2026-07-10,ML,Toronto Blue Jays,115.0,WIN,1.15,1.34,0.41
+2026-07-10,ML,Washington Nationals,148.0,LOSS,-1.0,2.41,1.54
