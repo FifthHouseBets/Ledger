@@ -73,3 +73,14 @@ date,market,selection,entry_odds,result,units,clv_pp,clv_fair_pp
 2026-07-18,ML,Pittsburgh Pirates,122.0,WIN,1.22,1.47,0.61
 2026-07-18,ML,Seattle Mariners,-125.0,WIN,0.8,5.53,4.29
 2026-07-18,UNDER,Nathan Church,-140.0,WIN,0.71,,-2.92
+2026-07-19,HR,James Wood,240.0,LOSS,-1.0,,-1.07
+2026-07-19,HR,Munetaka Murakami,292.0,LOSS,-1.0,,-2.28
+2026-07-19,ML,Boston Red Sox,-117.0,WIN,0.85,0.42,-0.62
+2026-07-19,ML,Chicago White Sox,-106.0,WIN,0.94,1.37,0.29
+2026-07-19,ML,Houston Astros,-110.0,LOSS,-1.0,1.54,0.48
+2026-07-19,ML,Los Angeles Dodgers,-104.0,WIN,0.96,4.38,3.36
+2026-07-19,ML,Minnesota Twins,156.0,LOSS,-1.0,-0.3,-1.11
+2026-07-19,ML,Seattle Mariners,-174.0,WIN,0.57,2.01,0.64
+2026-07-19,UNDER,Alec Bohm,-110.0,LOSS,-1.0,,-1.37
+2026-07-19,UNDER,Jake McCarthy,125.0,LOSS,-1.0,,0.14
+2026-07-19,UNDER,Kyle Manzardo,120.0,WIN,1.2,,-0.89
