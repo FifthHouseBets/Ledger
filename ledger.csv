@@ -99,3 +99,15 @@ date,market,selection,entry_odds,result,units,clv_pp,clv_fair_pp
 2026-07-20,UNDER,Jorge Polanco,106.0,LOSS,-1.0,,-1.16
 2026-07-20,UNDER,Nathan Church,135.0,LOSS,-1.0,,-0.82
 2026-07-20,UNDER,Tyler O'Neill,125.0,LOSS,-1.0,,-6.97
+2026-07-21,HR,Byron Buxton,320.0,LOSS,-1.0,,-0.71
+2026-07-21,HR,Esmerlyn Valdez,308.0,VOID,0,,
+2026-07-21,HR,Jake Bauers,335.0,LOSS,-1.0,,-3.32
+2026-07-21,HR,Munetaka Murakami,326.0,LOSS,-1.0,,2.19
+2026-07-21,ML,Atlanta Braves,-135.0,LOSS,-1.0,1.4,0.27
+2026-07-21,ML,Boston Red Sox,-124.0,VOID,0,,
+2026-07-21,ML,Detroit Tigers,108.0,LOSS,-1.0,0.47,-0.4
+2026-07-21,ML,Miami Marlins,116.0,LOSS,-1.0,1.78,0.94
+2026-07-21,ML,Seattle Mariners,-108.0,LOSS,-1.0,0.91,-0.05
+2026-07-21,ML,Washington Nationals,101.0,LOSS,-1.0,2.63,1.54
+2026-07-21,UNDER,Austin Wells,-164.0,VOID,0,,
+2026-07-21,UNDER,Cole Young,-155.0,WIN,0.65,,-6.82
