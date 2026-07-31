@@ -10,12 +10,12 @@ Tracking begins **2026-07-08**, the day this exact posting format
 (Cheat Sheet + Dinger Dandies + morning Scorecard) launched. Earlier
 days are not backfilled or reconstructed.
 
-## Season so far (as of 2026-07-30 14:20 UTC)
+## Season so far (as of 2026-07-31 14:20 UTC)
 
-- **Moneylines (Cheat Sheet):** 51-54 · -4.99u
-- **HR props (Dinger Dandies):** 4-34 · -22.82u — its own ledger,
+- **Moneylines (Cheat Sheet):** 54-55 · -3.68u
+- **HR props (Dinger Dandies):** 4-36 · -24.82u — its own ledger,
   never blended with the moneyline record
-- **H+R+RBI unders (Quiet Nights):** 29-24 · +5.66u — posted since 2026-07-11, its own ledger
+- **H+R+RBI unders (Quiet Nights):** 33-25 · +8.57u — posted since 2026-07-11, its own ledger
 
 ## Columns in `ledger.csv`
 
