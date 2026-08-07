@@ -10,7 +10,7 @@ Tracking begins **2026-07-08**, the day this exact posting format
 (Cheat Sheet + Dinger Dandies + morning Scorecard) launched. Earlier
 days are not backfilled or reconstructed.
 
-## Season so far (as of 2026-08-06 14:20 UTC)
+## Season so far (as of 2026-08-07 14:20 UTC)
 
 - **Moneylines (Cheat Sheet):** 56-58 · -5.25u
 - **HR props (Dinger Dandies):** 5-36 · -21.97u — its own ledger,
